@@ -10,7 +10,7 @@ Use the Yahoo Finance CSV API to do some basic market research calculations.
     p:  Price-per-share (at previous close)
     r:  Price to Earnings Ratio
 
-    
+Further references.
 
  - https://github.com/danwrong/restler
  - https://github.com/wdavidw/node-csv
